@@ -42,7 +42,8 @@ The CNN model includes:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ecosort-cnn.git
+git clone https://github.com/atharvviit26/EcoSort-CNN/
+
 
 # Navigate to the project folder
 cd ecosort-cnn
