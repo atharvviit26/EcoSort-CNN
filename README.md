@@ -142,14 +142,6 @@ If you'd prefer running the project via Docker:
 
 
 
-
-## Next Steps
-
-- Fine-tune hyperparameters (learning rate, batch size, and dropout rates).
-- Experiment with model architecture (add/reduce layers or neurons).
-- Optimize training speed and resource usage.
-
-
 ---
 
 ⭐ **Star this repo if you found it helpful!** ⭐
