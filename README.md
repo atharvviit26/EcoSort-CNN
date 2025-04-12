@@ -71,6 +71,77 @@ The CNN model includes:
 ![image](https://github.com/user-attachments/assets/100502d7-d7d4-41c2-848d-14a931a3d497)
 
 
+---
+
+## 🚀 Installation & Setup
+
+### 🔧 Prerequisites
+
+- Python 3.8 or higher  
+- `pip` package manager  
+- A modern web browser (for running the frontend)  
+
+### 🧠 Model Download
+
+Download the trained CNN model from the link below and save it in the root project directory (where `app.py` is located):
+
+👉 [Download Waste Classification Model (.h5)](https://drive.google.com/file/d/1S-_UoxyPb27F9n4jKAjSRQw2G8Zn0LBH/view?usp=drive_link)
+
+---
+
+### 🖥️ Manual Setup
+
+1. **Clone the repository (or download the required files):**
+   - `app.py` (Flask backend)
+   - `frontend.html` (Web interface)
+   - `.h5` model file (from the above drive link)
+
+2. **Install required Python packages:**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+   > If `requirements.txt` is not available, install dependencies manually:
+   ```bash
+   pip install flask tensorflow pillow
+   ```
+
+3. **Start the Flask server:**
+
+   ```bash
+   python app.py
+   ```
+
+4. **Access the website:**
+
+   Open your browser and visit [http://localhost:5000](http://localhost:5000)
+
+---
+
+### 🐳 Docker Setup (Optional)
+
+If you'd prefer running the project via Docker:
+
+1. **Pull the Docker image:**
+
+   ```bash
+   docker pull atharvviit/ecosort:03
+   ```
+
+2. **Run the container:**
+
+   ```bash
+   docker run -p 5000:5000 atharvviit/ecosort:03
+   ```
+
+3. **Access the web app:**
+
+   Open your browser and navigate to [http://localhost:5000](http://localhost:5000)
+
+
+
+
 
 ## Next Steps
 
