@@ -66,7 +66,11 @@ The CNN model includes:
 - Model achieved promising accuracy and generalization with early stopping and dropout layers.
 - Variations in training times observed based on batch size and hardware efficiency.
 
-![eec00dc9-6aaa-4f54-a8a1-e5c355849ca1](https://github.com/user-attachments/assets/bacafea2-5367-40e7-ba88-f6e65349894e)
+## Website Output
+![image](https://github.com/user-attachments/assets/3ff6ad37-0d27-439c-8409-3d95a756be97)
+![image](https://github.com/user-attachments/assets/100502d7-d7d4-41c2-848d-14a931a3d497)
+
+
 
 ## Next Steps
 
@@ -74,12 +78,6 @@ The CNN model includes:
 - Experiment with model architecture (add/reduce layers or neurons).
 - Optimize training speed and resource usage.
 
-
-## Acknowledgements
-
-- TensorFlow and Keras for deep learning.
-- OpenCV and Matplotlib for image processing and visualization.
-- The dataset providers for enabling this project.
 
 ---
 
