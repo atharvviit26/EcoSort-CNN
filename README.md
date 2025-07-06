@@ -2,7 +2,7 @@
 
 # 🌿 EcoSort-CNN: Waste Classification using Deep Learning
 
-**EcoSort-CNN** is a deep learning project that classifies waste into two categories: **Organic (O)** and **Recyclable (R)**. The updated version uses **transfer learning and fine-tuning on a pre-trained VGG16 model**, originally trained on ImageNet, to enhance classification accuracy and robustness. This promotes intelligent waste segregation and contributes to sustainable waste management practices.
+**EcoSort-CNN** is a deep learning project that classifies waste into two categories: **Organic (O)** and **Recyclable (R)**. Uses **transfer learning and fine-tuning on a pre-trained VGG16 model**, originally trained on ImageNet, to enhance classification accuracy and robustness. This promotes intelligent waste segregation and contributes to sustainable waste management practices.
 
 ---
 
